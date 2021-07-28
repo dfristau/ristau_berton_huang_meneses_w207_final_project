@@ -4,7 +4,7 @@ This is our project on music prediction and classification.
 
 We have four folders in this repo:
 
-- data folder
+- data folder:
 
 - script folder:
 
