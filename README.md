@@ -25,6 +25,7 @@ We have four folders in this repo:
   - Models :
     - Naive Bayes
     - Decision Tree
+    - Logistic Regression
     - Random Forest
     - Support Vector Machines
     - Neural Network
