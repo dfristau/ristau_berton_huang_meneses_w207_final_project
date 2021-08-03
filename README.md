@@ -16,12 +16,12 @@ We have four folders in this repo:
       - Spectral Features from Wav Files
       - Wav and MIDI combined
               
-  - Exploratory Data Analysis :
+  - Exploratory Data Analysis : Distribution and Correlations
     - NPZ Data
     - WAV files
     - MetaData
     - MIDI Data
-    - Feature and Label Correlations
+
   - Models :
     - Naive Bayes
     - Decision Tree
