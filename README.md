@@ -10,7 +10,7 @@ We have four folders in this repo:
   - EDA Plots done in google collab were saved here. Not all the plots could not be done in github due to 21gb data size.
 
 - scripts folder:
-  - Data Preprocessing (Extraction and Feature Engineering) : 
+  - Data Preprocessing : Extraction and Feature Engineering
     - 3 Datasets were created :                    
       - MIDI Features only : Feature Engineering Performed to derive features for use in the models
       - Spectral Features from Wav Files
