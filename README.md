@@ -25,11 +25,11 @@ We have four folders in this repo:
               - MIDI Data
               - Feature and Label Correlations
   - Models :
-          - Naive Bayes
-          - Decision Tree
-          - Random Forest
-          - Support Vector Machines
-          - Neural Network
+    - Naive Bayes
+    - Decision Tree
+    - Random Forest
+    - Support Vector Machines
+    - Neural Network
 
 - output folder:
 
