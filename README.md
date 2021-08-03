@@ -23,7 +23,7 @@ We have four folders in this repo:
     - MIDI Data
 
   - Models :
-    - Naive Bayes
+    - Naive Bayes (Baseline)
     - Decision Tree
     - Logistic Regression
     - Random Forest
