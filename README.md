@@ -12,9 +12,9 @@ We have four folders in this repo:
 - script folder:
   - Data Preprocessing (Extraction and Feature Engineering) : 
     - 3 Datasets were created :                    
-      (i) MIDI Features only : Feature Engineering Performed to derive features for use in the models
-      (ii) Spectral Features from Wav Files
-      (iii) Wav and MIDI combined
+      - MIDI Features only : Feature Engineering Performed to derive features for use in the models
+      - Spectral Features from Wav Files
+      - Wav and MIDI combined
               
   - Exploratory Data Analysis :
     - NPZ Data
