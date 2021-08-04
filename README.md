@@ -26,7 +26,7 @@ We have four folders in this repo:
     - MetaData Exploration
     - MIDI Data Exploration
 
-  - Model Validation and Testing :
+  - Model Tuning, Validation and Testing :
     - Naive Bayes (Baseline)
     - Decision Tree
     - Logistic Regression
