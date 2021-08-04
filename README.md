@@ -33,5 +33,6 @@ We have four folders in this repo:
     - Neural Network
 
 - output folder:
+    - Saved images of our EDA plots are here
 
 - literature folder:
