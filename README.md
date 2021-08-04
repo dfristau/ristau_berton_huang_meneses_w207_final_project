@@ -7,7 +7,7 @@ We have four folders in this repo:
 - data folder: 
   - Features we extracted from the wav and midi files were exported to csv and saved in this folder 
   - Wav, Midi, Metadata, NPZ Files dataset (21 Gigabytes) can be found at this <a href="https://www.kaggle.com/imsparsh/musicnet-dataset/code">link</a>.
-  - EDA Plots done in google collab were saved here. Not all the plots could not be done in github due to 21gb data size.
+  - EDA Plots done in google collab were saved in both google drive and github. Not all the plots could not be done in github due to 21gb data size.
 
 - scripts folder:
   - Data Preprocessing : Extraction and Feature Engineering
@@ -16,7 +16,9 @@ We have four folders in this repo:
       - Spectral Features from Wav Files
       - Wav and MIDI combined
               
-  - Exploratory Data Analysis : Distribution and Correlations
+  - Exploratory Data Analysis : Distribution and Correlations 
+    - Link to <a href="https://colab.research.google.com/drive/1xwEuh2z3gEDekdTmc5qNzagcIhIRpBBl?authuser=1#scrollTo=qZgc6bu8FFVi"> Google Collab File </a> : This runs the EDA on larger files saved in google drive. Please contact Ziling Huang if you are a grader and need access to the google drive and to the google collab file. Instructor Cornelia Ilin has been given access.
+    - Exploratory Data Analysis.ipynb saved in github. You can view the same code here as well but some of the code only runs in google collab.
     - NPZ Data
     - WAV files
     - MetaData
