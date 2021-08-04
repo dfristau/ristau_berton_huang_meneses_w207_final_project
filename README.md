@@ -6,7 +6,7 @@ We have four folders in this repo:
 
 - data folder: 
   - Features we extracted from the wav and midi files were exported to csv and saved in this folder 
-  - Wav, Midi, Metadata, NPZ Files dataset (21 Gigabytes) can be found at this <a href="https://www.kaggle.com/imsparsh/musicnet-dataset/code">link</a>.
+  - Wav, Midi, Metadata, NPZ Files dataset (21 Gigabytes) can be found at this <a href="https://www.kaggle.com/imsparsh/musicnet-dataset/code">kaggle link</a> and in <a href="https://drive.google.com/drive/u/1/folders/1f4AakoH7RQ51WqieexWNDDhywJ0sH3vC">our google drive link </a>.
   - EDA Plots done in google collab were saved in both google drive and github. Not all the plots could not be done in github due to 21gb data size.
 
 - scripts folder:
