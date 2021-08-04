@@ -1,6 +1,6 @@
 # ristau_berton_huang_meneses_w207_final_project
 
-This is our project on music classification to train models to accurately identify musical ensembles of a song using MusicNet Classicial Music Dataset. Click the following link to view our <a href="https://docs.google.com/presentation/d/1OoAvQpJaRzwyWGekHhIY1sLUm6SKBcv4rjEny9l4qdc/edit#slide=id.p"> RoBach Music Classification Presentation Slide Deck </a>
+This is our project on music classification to train models to accurately identify musical ensembles of a song using MusicNet Classical Music Dataset. Click the following link to view our <a href="https://docs.google.com/presentation/d/1OoAvQpJaRzwyWGekHhIY1sLUm6SKBcv4rjEny9l4qdc/edit#slide=id.p"> RoBach Music Classification Presentation Slide Deck </a>
 
 We have four folders in this repo:
 
