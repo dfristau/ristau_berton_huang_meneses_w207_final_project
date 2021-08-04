@@ -1,6 +1,6 @@
 # ristau_berton_huang_meneses_w207_final_project
 
-This is our project on music classification to identify musical ensembles of a song using MusicNet Classicial Music Dataset.
+This is our project on music classification to train models to accurately identify musical ensembles of a song using MusicNet Classicial Music Dataset.
 
 We have four folders in this repo:
 
