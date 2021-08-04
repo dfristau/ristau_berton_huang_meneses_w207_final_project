@@ -11,6 +11,8 @@ We have four folders in this repo:
 
 - scripts folder:
   - Data Preprocessing : Extraction and Feature Engineering
+    - Link to <a href="https://colab.research.google.com/drive/1I5xCF_rOZxNuKLmVRlfRIbiMJtHtykwm?authuser=1#scrollTo=pEGGz1GZCyCD"> Google Collab Data Preprocessing File </a> : This runs the Data Extraction on larger files saved in google drive. Please contact Ziling Huang if you are a grader and need access to mount the google drive and the google collab file. Instructor Cornelia Ilin has been given access.
+    - Data Extraction and Feature Engineering.ipynb saved in github. You can view the same code here as well but some of the code only runs in google collab.
     - 3 Datasets were created :                    
       - MIDI Features only : Feature Engineering Performed 
       - Spectral Features from Wav Files
