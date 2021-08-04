@@ -17,7 +17,7 @@ We have four folders in this repo:
       - Wav and MIDI combined
               
   - Exploratory Data Analysis : Distribution and Correlations 
-    - Link to <a href="https://colab.research.google.com/drive/1xwEuh2z3gEDekdTmc5qNzagcIhIRpBBl?authuser=1#scrollTo=qZgc6bu8FFVi"> Google Collab File </a> : This runs the EDA on larger files saved in google drive. Please contact Ziling Huang if you are a grader and need access to the google drive and the google collab file. Instructor Cornelia Ilin has been given access.
+    - Link to <a href="https://colab.research.google.com/drive/1xwEuh2z3gEDekdTmc5qNzagcIhIRpBBl?authuser=1#scrollTo=qZgc6bu8FFVi"> Google Collab File </a> : This runs the EDA on larger files saved in google drive. Please contact Ziling Huang if you are a grader and need access to mount the google drive and the google collab file. Instructor Cornelia Ilin has been given access.
     - Exploratory Data Analysis.ipynb saved in github. You can view the same code here as well but some of the code only runs in google collab.
     - NPZ Data Exploration
     - WAV files Exploration
