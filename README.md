@@ -9,7 +9,7 @@ We have four folders in this repo:
   - Wav, Midi, Metadata, NPZ Files dataset (21 Gigabytes) can be found at this <a href="https://www.kaggle.com/imsparsh/musicnet-dataset/code">kaggle link</a> and in <a href="https://drive.google.com/drive/u/1/folders/1f4AakoH7RQ51WqieexWNDDhywJ0sH3vC">our google drive link </a>.
   - EDA Plots done in google collab were saved in both google drive and github. Not all the plots could not be done in github due to 21gb data size.
 
-- scripts folder:
+- <b> scripts folder: </b>
   - Data Preprocessing : Extraction and Feature Engineering
     - Link to <a href="https://colab.research.google.com/drive/1I5xCF_rOZxNuKLmVRlfRIbiMJtHtykwm?authuser=1#scrollTo=pEGGz1GZCyCD"> Google Collab Data Preprocessing File </a> : This runs the Data Extraction on larger files saved in google drive. Please contact Ziling Huang if you are a grader and need access to mount the google drive and the google collab file. Instructor Cornelia Ilin has been given access.
     - Data Extraction and Feature Engineering.ipynb saved in github. You can view the same code here as well but some of the code only runs in google collab.
@@ -34,7 +34,7 @@ We have four folders in this repo:
     - Support Vector Machines
     - Neural Network
 
-- output folder:
+- <b> output folder: </b>
     - Saved images of our EDA plots are here
 
-- literature folder:
+- <b> literature folder: </b>
