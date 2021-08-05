@@ -27,14 +27,14 @@ We have four folders in this repo:
     - MIDI Data Exploration
 
   - Model Tuning, Validation and Testing :
-  - Refer to "Model Consolidation.ipynb" for consolidated training models and 5-fold cross validation on development set.
-  - Refer to "Model Test Set Evaluation.ipynb" for testing model performance on test data.
-    - Naive Bayes (Baseline)
-    - Decision Tree
-    - Logistic Regression
-    - Random Forest
-    - Support Vector Machines
-    - Neural Network
+    - Refer to "Model Consolidation.ipynb" for consolidated training models and 5-fold cross validation on development set.
+    - Refer to "Model Test Set Evaluation.ipynb" for testing model performance on test data.
+      - Naive Bayes (Baseline)
+      - Decision Tree
+      - Logistic Regression
+      - Random Forest
+      - Support Vector Machines
+      - Neural Network
   - P.S. Do not run individual models in Individual Models folder
 
 - <b> output folder: </b>
