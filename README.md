@@ -36,5 +36,7 @@ We have four folders in this repo:
 
 - <b> output folder: </b>
     - Saved images of our EDA plots are here
+    - Test and Development Set Results are saved here
 
-- <b> literature folder: </b>
+- <b> literature folder: </b>   
+    - Our readings and references to current research in this domain 
