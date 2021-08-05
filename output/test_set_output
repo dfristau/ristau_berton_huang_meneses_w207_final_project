@@ -1,6 +1,6 @@
 Model #: 1
 Neural Network Baseline (wav data only)
-F1 Score: 0.8517482517482518
+F1 Score: 0.8570947570947571
 Model #: 2
 Random Forest (wav data only)
 F1 Score: 0.6914081996434938
