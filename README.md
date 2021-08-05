@@ -29,6 +29,7 @@ We have four folders in this repo:
   - Model Tuning, Validation and Testing :
     - Refer to "Model Consolidation.ipynb" for consolidated training models and 5-fold cross validation on development set.
     - Refer to "Model Test Set Evaluation.ipynb" for testing model performance on test data.
+    - Evaluation Criterion : F1-Score
       - Naive Bayes (Baseline)
       - Decision Tree
       - Logistic Regression
